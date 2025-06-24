@@ -1,0 +1,44 @@
+{
+    "estado_civil": "Casado que presenta una declaración conjunta",
+    "activos_digitales": "No",
+    "ingreso_total": {
+        "salarios": {
+            "formularios_w2": null,
+            "empleado_domestico": null,
+            "propinas": null,
+            "exencion_medicaid": null,
+            "beneficios_cuidado_dependientes": null,
+            "beneficios_adopcion": null,
+            "formulario_8919": null,
+            "otros": null,
+            "paga_combate_no_tributable": null
+        },
+        "intereses": {
+            "exento_impuesto": null,
+            "tributable": null
+        },
+        "dividendos": {
+            "calificados": null,
+            "ordinarios": null
+        },
+        "distribuciones_ira": {
+            "total": null,
+            "tributable": null
+        },
+        "pensiones_anualidades": {
+            "total": null,
+            "tributable": null
+        },
+        "seguro_social": {
+            "total": null,
+            "tributable": null
+        },
+        "ganancia_perdida_capital": null,
+        "ingreso_adicional": null
+    },
+    "ajustes_ingreso": null,
+    "ingreso_bruto_ajustado": null,
+    "deduccion_estandar": null,
+    "deduccion_ingreso_calificado_negocio": null,
+    "ingreso_tributable": null
+}

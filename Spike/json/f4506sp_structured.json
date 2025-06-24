@@ -1,0 +1,115 @@
+{
+    "formulario": "4506",
+    "fecha": "enero de 2024",
+    "departamento": "Department of the Treasury - Internal Revenue Service",
+    "titulo": "Solicitud de Copia de la Declaración de Impuestos",
+    "instruccionesSubmision": [
+        "No firmar a menos que todas las líneas aplicables se hayan completado",
+        "La solicitud puede ser rechazada si el formulario está incompleto o ilegible"
+    ],
+    "informacionAdicional": "Para obtener más información sobre el Formulario 4506 (sp), visite www.irs.gov/form4506sp",
+    "numeroOMB": "1545-0429",
+    "servicioCeleridad": "Obtener servicio más rápido en línea en www.irs.gov/espanol o llamar al 1-800-908-9946 para ayuda especializada",
+    "transcripcionesDisponibles": [
+        "Transcripción de la declaración de impuestos",
+        "Transcripción de la cuenta tributaria",
+        "Transcripción del registro de cuenta",
+        "Transcripción de sueldos y salarios",
+        "Carta de verificación de no presentación"
+    ],
+    "tarifa": {
+        "costo": "$30 por cada declaración solicitada",
+        "modosPago": "Cheque o giro pagadero a 'United States Treasury'",
+        "informacionCheque": "Anotar SSN, ITIN o EIN y las palabras en inglés 'Form 4506 (sp) request' en el cheque o giro"
+    },
+    "tiempoTramite": "Puede tardar hasta 75 días calendarios",
+    "direccionesEnvio": {
+        "declaracionesIndividuales": {
+            "grupo1": {
+                "estados": [
+                    "Alabama",
+                    "Arkansas",
+                    "Carolina del Norte",
+                    "Carolina del Sur",
+                    "Florida",
+                    "Georgia",
+                    "Luisiana",
+                    "Misisipi",
+                    "Oklahoma",
+                    "Tennessee",
+                    "Texas"
+                ],
+                "direccion": "Internal Revenue Service RAIVS Team, Stop 6716 AUSC, Austin, TX 73301"
+            },
+            "grupo2": {
+                "estados": [
+                    "Delaware",
+                    "Illinois",
+                    "Indiana",
+                    "Iowa",
+                    "Kentucky",
+                    "Maine",
+                    "Massachusetts",
+                    "Minnesota",
+                    "Misuri",
+                    "Nuevo Hampshire",
+                    "Nueva Jersey",
+                    "Nueva York",
+                    "Vermont",
+                    "Virginia",
+                    "Wisconsin"
+                ],
+                "direccion": "Internal Revenue Service RAIVS Team, Stop 6705 S-2, Kansas City, MO 64999"
+            },
+            "grupo3": {
+                "estados": [
+                    "Alaska",
+                    "Arizona",
+                    "California",
+                    "Colorado",
+                    "Connecticut",
+                    "Dakota del Norte",
+                    "Dakota del Sur",
+                    "Distrito de Columbia",
+                    "Hawái",
+                    "Idaho",
+                    "Kansas",
+                    "Maryland",
+                    "Michigan",
+                    "Montana",
+                    "Nebraska",
+                    "Nevada",
+                    "Nuevo México",
+                    "Ohio",
+                    "Oregón",
+                    "Pensilvania",
+                    "Rhode Island",
+                    "Utah",
+                    "Virginia Occidental",
+                    "Washington",
+                    "Wyoming"
+                ],
+                "direccion": "Internal Revenue Service RAIVS Team, P.O. Box 9941, Mail Stop 6734, Ogden, UT 84409"
+            }
+        }
+    },
+    "firmas": {
+        "individuos": "Solo se requiere una firma de declaración conjunta",
+        "sociedadesAnonimas": "Firmado por oficial con autoridad legal, persona designada por junta directiva, o accionista del 1%",
+        "sociedadesColectivas": "Firmado por miembro durante parte del período tributario solicitado"
+    },
+    "documentacion": "Entidades que no sean individuos deben adjuntar documento de autorización",
+    "usoInformacion": "Identificar correctamente la información tributaria y responder a la solicitud",
+    "divulgacionInformacion": [
+        "Al Departamento de Justicia para litigios",
+        "A ciudades, estados, DC y territorios para administración de leyes tributarias",
+        "A países según tratados tributarios",
+        "A agencias federales y estatales para ejecutar leyes penales no tributarias",
+        "A agencias de cumplimiento de la ley e inteligencia para combatir el terrorismo"
+    ],
+    "tiempoEstimadoCompletado": {
+        "aprenderSobreFormulario": "10 minutos",
+        "prepararFormulario": "16 minutos",
+        "copiarYEnviarFormulario": "20 minutos"
+    }
+}

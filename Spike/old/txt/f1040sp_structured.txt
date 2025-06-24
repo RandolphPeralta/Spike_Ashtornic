@@ -1,0 +1,38 @@
+A continuación, he extraído y estructurado los principales datos financieros del Formulario 1040 del año 2024:
+
+Ingresos:
+- Salarios, sueldos, propinas, etc. (línea 1)
+- Intereses (línea 2b)  
+- Dividendos ordinarios (línea 3b)
+- Distribuciones de IRA (línea 4b)
+- Pensiones y anualidades (línea 5b) 
+- Beneficios del Seguro Social (línea 6b)
+- Ganancias o pérdidas de capital (línea 7)
+- Otros ingresos (línea 8)
+- Total de ingresos (línea 9)
+
+Ajustes y Deducciones:
+- Ajustes al ingreso (línea 10) 
+- Deducción estándar o deducciones detalladas (línea 12)
+- Deducción por ingreso calificado de negocio (línea 13)
+- Ingreso tributable (línea 15)
+
+Impuestos y Créditos:
+- Impuesto (línea 16)
+- Otros impuestos (línea 17) 
+- Total de impuestos (línea 18)
+- Créditos no reembolsables (líneas 19 y 20)
+- Impuesto total (línea 24)
+
+Pagos:
+- Retenciones (línea 25d)
+- Pagos de impuesto estimado (línea 26) 
+- Créditos reembolsables (línea 32)
+- Total de pagos (línea 33)
+
+Reembolso o Cantidad Adeudada:  
+- Reembolso (línea 35a)
+- Cantidad aplicada al impuesto estimado del próximo año (línea 36)
+- Cantidad adeudada (línea 37)
+
+Básicamente este formulario resume los ingresos, deducciones, impuestos, créditos y pagos realizados para determinar si al contribuyente le corresponde un reembolso o si debe dinero adicional al IRS. Los montos específicos para cada línea deben ser llenados por el contribuyente según sus circunstancias personales.

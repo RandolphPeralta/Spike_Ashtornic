@@ -1,0 +1,122 @@
+{
+    "saldo_anterior": 7916727.29,
+    "debitos": 4262733.0,
+    "creditos": 9658511.98,
+    "nuevo_saldo": 13312506.27,
+    "saldo_promedio": 7268110.52,
+    "incremento_creditos_respecto_saldo_promedio": "86%",
+    "movimientos": [
+        {
+            "fecha": "05/09",
+            "oficina": "FRANQUICIA MASTERCARD",
+            "documento": 1597,
+            "valor": 750000.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "05/09",
+            "oficina": "FRANQUICIA MASTERCARD",
+            "documento": 3474,
+            "valor": 3792729.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "06/09",
+            "oficina": null,
+            "documento": 4011,
+            "valor": 6170.0,
+            "descripcion": "Retiro en Cajero Automático"
+        },
+        {
+            "fecha": "06/09",
+            "oficina": "FRANQUICIA MASTERCARD",
+            "documento": 9877,
+            "valor": 97750.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "11/09",
+            "oficina": null,
+            "documento": 3032,
+            "valor": 320000.0,
+            "descripcion": "Descuento Transfer. No550005000151521"
+        },
+        {
+            "fecha": "16/09",
+            "oficina": "FRANQUICIA MASTERCARD",
+            "documento": 4411,
+            "valor": 31984.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "16/09",
+            "oficina": "FRANQUICIA VISA",
+            "documento": 3698,
+            "valor": 29982.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "16/09",
+            "oficina": null,
+            "documento": 4378,
+            "valor": 16400.0,
+            "descripcion": "Pago Cuota Da Buenavida 11343530"
+        },
+        {
+            "fecha": "17/09",
+            "oficina": null,
+            "documento": 2043,
+            "valor": 19630.0,
+            "descripcion": "Retiro  en Cajero Automático"
+        },
+        {
+            "fecha": "18/09",
+            "oficina": "UNV. DE LOS ANDES",
+            "documento": 1918,
+            "valor": 74917.0,
+            "descripcion": "Abono Por Transferencia De Fondos"
+        },
+        {
+            "fecha": "20/09",
+            "oficina": null,
+            "documento": 6346,
+            "valor": 500000.0,
+            "descripcion": "Pago Planilla Asistida - Aportante"
+        },
+        {
+            "fecha": "20/09",
+            "oficina": "FRANQUICIA MASTERCARD",
+            "documento": 3482,
+            "valor": 320000.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "21/09",
+            "oficina": "PEAJE ANDES BOGOTA",
+            "documento": 5395,
+            "valor": 14800.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "23/09",
+            "oficina": "FRANQUICIA MASTERCARD",
+            "documento": 5752,
+            "valor": 116390.0,
+            "descripcion": "Retiro en Cajero Automático"
+        },
+        {
+            "fecha": "24/09",
+            "oficina": "FRANQUICIA VISA",
+            "documento": 4857,
+            "valor": 46300.0,
+            "descripcion": "Descuento Por Compra en Esablecimient"
+        },
+        {
+            "fecha": "26/09",
+            "oficina": "BTA PROCESOS ESP .",
+            "documento": 2838,
+            "valor": 720000.0,
+            "descripcion": "Abono Por Transferencia De Fondos"
+        }
+    ]
+}

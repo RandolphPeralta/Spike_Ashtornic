@@ -1,0 +1,386 @@
+{
+    "resumen": {
+        "saldoAnterior": 2991.84,
+        "totalAbonos": 4150018.24,
+        "totalCargos": 4125769.54,
+        "saldoActual": 27240.54,
+        "saldoPromedio": 74299.0,
+        "cuentasXCobrar": 0.0,
+        "valorInteresesPagados": 18.24,
+        "retefuente": 0.0
+    },
+    "transacciones": [
+        {
+            "fecha": "11/10",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 150000.0,
+            "saldo": 152991.84
+        },
+        {
+            "fecha": "11/10",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.41,
+            "saldo": 152992.25
+        },
+        {
+            "fecha": "12/10",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -47.36,
+            "saldo": 152944.89
+        },
+        {
+            "fecha": "12/10",
+            "descripcion": "CUOTA MANEJO TARJETA DEBITO",
+            "valor": -11840.0,
+            "saldo": 141104.89
+        },
+        {
+            "fecha": "13/10",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.76,
+            "saldo": 141105.65
+        },
+        {
+            "fecha": "14/10",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -480.0,
+            "saldo": 140625.65
+        },
+        {
+            "fecha": "14/10",
+            "descripcion": "RETIRO CAJERO PALATINO 2",
+            "valor": -120000.0,
+            "saldo": 20625.65
+        },
+        {
+            "fecha": "22/10",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.45,
+            "saldo": 20626.1
+        },
+        {
+            "fecha": "23/10",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 200000.0,
+            "saldo": 220626.1
+        },
+        {
+            "fecha": "23/10",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -800.0,
+            "saldo": 219826.1
+        },
+        {
+            "fecha": "23/10",
+            "descripcion": "RETIRO CAJERO CEDRITOS",
+            "valor": -200000.0,
+            "saldo": 19826.1
+        },
+        {
+            "fecha": "28/10",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.3,
+            "saldo": 19826.4
+        },
+        {
+            "fecha": "29/10",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 100000.0,
+            "saldo": 119826.4
+        },
+        {
+            "fecha": "29/10",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.32,
+            "saldo": 119826.72
+        },
+        {
+            "fecha": "30/10",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -440.0,
+            "saldo": 119386.72
+        },
+        {
+            "fecha": "30/10",
+            "descripcion": "RETIRO CAJERO SUC REAL MINAS",
+            "valor": -110000.0,
+            "saldo": 9386.72
+        },
+        {
+            "fecha": "31/10",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.04,
+            "saldo": 9386.76
+        },
+        {
+            "fecha": "13/11",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.26,
+            "saldo": 9387.02
+        },
+        {
+            "fecha": "14/11",
+            "descripcion": "CUOTA MANEJO TARJETA DEBITO",
+            "valor": -9387.02,
+            "saldo": 0.0
+        },
+        {
+            "fecha": "20/11",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 400000.0,
+            "saldo": 400000.0
+        },
+        {
+            "fecha": "20/11",
+            "descripcion": "GRAVAMEN MOVTO FINANCIERO CXC",
+            "valor": -37.54,
+            "saldo": 399962.46
+        },
+        {
+            "fecha": "20/11",
+            "descripcion": "CXC CUOTA MANEJO TARJ DEB",
+            "valor": -2452.98,
+            "saldo": 397509.48
+        },
+        {
+            "fecha": "21/11",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 2.16,
+            "saldo": 397511.64
+        },
+        {
+            "fecha": "22/11",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -1400.0,
+            "saldo": 396111.64
+        },
+        {
+            "fecha": "22/11",
+            "descripcion": "RETIRO CAJERO UNIDADES TECNOL",
+            "valor": -350000.0,
+            "saldo": 46111.64
+        },
+        {
+            "fecha": "26/11",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.6,
+            "saldo": 46112.24
+        },
+        {
+            "fecha": "27/11",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.01,
+            "saldo": 46112.25
+        },
+        {
+            "fecha": "27/11",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -160.0,
+            "saldo": 45952.25
+        },
+        {
+            "fecha": "27/11",
+            "descripcion": "RETIRO CAJERO UNIDADES TECNOL",
+            "valor": -40000.0,
+            "saldo": 5952.25
+        },
+        {
+            "fecha": "28/11",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 500000.0,
+            "saldo": 505952.25
+        },
+        {
+            "fecha": "28/11",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 1.38,
+            "saldo": 505953.63
+        },
+        {
+            "fecha": "29/11",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -2000.0,
+            "saldo": 503953.63
+        },
+        {
+            "fecha": "29/11",
+            "descripcion": "RETIRO CAJERO UNIDADES TECNOL",
+            "valor": -500000.0,
+            "saldo": 3953.63
+        },
+        {
+            "fecha": "30/11",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.02,
+            "saldo": 3953.65
+        },
+        {
+            "fecha": "3/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.03,
+            "saldo": 3953.68
+        },
+        {
+            "fecha": "4/12",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 800000.0,
+            "saldo": 803953.68
+        },
+        {
+            "fecha": "4/12",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -3200.0,
+            "saldo": 800753.68
+        },
+        {
+            "fecha": "4/12",
+            "descripcion": "RETIRO CAJERO SUC REAL MINAS",
+            "valor": -400000.0,
+            "saldo": 400753.68
+        },
+        {
+            "fecha": "4/12",
+            "descripcion": "RETIRO CAJERO SUC REAL MINAS",
+            "valor": -400000.0,
+            "saldo": 753.68
+        },
+        {
+            "fecha": "7/12",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 100000.0,
+            "saldo": 100753.68
+        },
+        {
+            "fecha": "8/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.54,
+            "saldo": 100754.22
+        },
+        {
+            "fecha": "9/12",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -400.0,
+            "saldo": 100354.22
+        },
+        {
+            "fecha": "9/12",
+            "descripcion": "RETIRO CAJERO CC COOSANANDRES",
+            "valor": -100000.0,
+            "saldo": 354.22
+        },
+        {
+            "fecha": "13/12",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 200000.0,
+            "saldo": 200354.22
+        },
+        {
+            "fecha": "13/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.02,
+            "saldo": 200354.24
+        },
+        {
+            "fecha": "13/12",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -768.8,
+            "saldo": 199585.44
+        },
+        {
+            "fecha": "13/12",
+            "descripcion": "RETIRO CAJERO PASEO DEL COMER",
+            "valor": -180000.0,
+            "saldo": 19585.44
+        },
+        {
+            "fecha": "13/12",
+            "descripcion": "CUOTA MANEJO TARJETA DEBITO",
+            "valor": -12200.0,
+            "saldo": 7385.44
+        },
+        {
+            "fecha": "14/12",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 1000000.0,
+            "saldo": 1007385.44
+        },
+        {
+            "fecha": "15/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 5.5,
+            "saldo": 1007390.94
+        },
+        {
+            "fecha": "16/12",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -3200.0,
+            "saldo": 1004190.94
+        },
+        {
+            "fecha": "16/12",
+            "descripcion": "RETIRO CAJERO UNIDADES TECNOL",
+            "valor": -400000.0,
+            "saldo": 604190.94
+        },
+        {
+            "fecha": "16/12",
+            "descripcion": "RETIRO CAJERO UNIDADES TECNOL",
+            "valor": -400000.0,
+            "saldo": 204190.94
+        },
+        {
+            "fecha": "19/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 2.2,
+            "saldo": 204193.14
+        },
+        {
+            "fecha": "20/12",
+            "descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "valor": 700000.0,
+            "saldo": 904193.14
+        },
+        {
+            "fecha": "20/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 2.47,
+            "saldo": 904195.61
+        },
+        {
+            "fecha": "21/12",
+            "descripcion": "GRAVAMEN MOVIMIENTO FINANCIER",
+            "valor": -3493.84,
+            "saldo": 900701.77
+        },
+        {
+            "fecha": "21/12",
+            "descripcion": "RETIRO CAJERO SUC REAL MINAS",
+            "valor": -200000.0,
+            "saldo": 700701.77
+        },
+        {
+            "fecha": "21/12",
+            "descripcion": "COMPRA EN REPRESENT",
+            "valor": -42986.0,
+            "saldo": 657715.77
+        },
+        {
+            "fecha": "21/12",
+            "descripcion": "COMPRA EN RODAR CONS",
+            "valor": -630476.0,
+            "saldo": 27239.77
+        },
+        {
+            "fecha": "31/12",
+            "descripcion": "ABONO INTERESES AHORROS",
+            "valor": 0.77,
+            "saldo": 27240.54
+        }
+    ],
+    "cuentaInfo": {
+        "tipo": "CUENTA DE AHORROS",
+        "numero": "29117552878",
+        "sucursal": "LAS PALMAS"
+    },
+    "titular": "NANCY ROCIO MANTILLA MALAGON"
+}

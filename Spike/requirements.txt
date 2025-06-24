@@ -1,0 +1,7 @@
+pandas
+os
+json
+psycopg2
+anthropic
+pdf2image
+pytesseract

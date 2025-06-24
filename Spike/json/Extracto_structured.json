@@ -1,0 +1,105 @@
+{
+    "saldo_anterior": 3466449.81,
+    "total_creditos": 2449898.92,
+    "total_debitos": 3013876.0,
+    "nuevo_saldo": 2902472.73,
+    "saldo_promedio": 2340272.93,
+    "saldo_total_bolsillo": 0.0,
+    "movimientos": [
+        {
+            "fecha": "0201",
+            "valor": -46900.0,
+            "documento": "4277",
+            "tipo_movimiento": "Pago De Servicio",
+            "oficina": "BTA PROCESOS ESP."
+        },
+        {
+            "fecha": "0601",
+            "valor": -280579.0,
+            "documento": "5208",
+            "tipo_movimiento": "Compra",
+            "detalles": "COLSUBSIDIO RESTREPO",
+            "franquicia": "MASTER CARD"
+        },
+        {
+            "fecha": "0701",
+            "valor": -109591.0,
+            "documento": "0645",
+            "tipo_movimiento": "Compra",
+            "detalles": "SG CDA MOTOMAS AVE 1",
+            "franquicia": "VISA"
+        },
+        {
+            "fecha": "1001",
+            "valor": -720000.0,
+            "documento": "5143",
+            "tipo_movimiento": "Retiro en Cajero Automatico",
+            "detalles": "GRAN ESTACION BOGOTA"
+        },
+        {
+            "fecha": "1301",
+            "valor": -131466.0,
+            "documento": "1181",
+            "tipo_movimiento": "Pago De Servicio",
+            "oficina": "BTA PROCESOS ESP."
+        },
+        {
+            "fecha": "1501",
+            "valor": -192250.0,
+            "documento": "6322",
+            "tipo_movimiento": "Compra",
+            "detalles": "COLSUBSIDIO RESTREPO",
+            "franquicia": "MASTER CARD"
+        },
+        {
+            "fecha": "1601",
+            "valor": -720000.0,
+            "documento": "1376",
+            "tipo_movimiento": "Retiro en Cajero Automatico",
+            "detalles": "QUINTA PAREDES BOG"
+        },
+        {
+            "fecha": "1701",
+            "valor": -65360.0,
+            "documento": "2404",
+            "tipo_movimiento": "Pago",
+            "detalles": "CODENSA 0000622729",
+            "oficina": "BTA PROCESOS ESP."
+        },
+        {
+            "fecha": "2401",
+            "valor": -11000.0,
+            "documento": "1701",
+            "tipo_movimiento": "Cuota Manejo Tarjeta Debito",
+            "detalles": "Febrero",
+            "oficina": "BTA PROCESOS ESP."
+        },
+        {
+            "fecha": "2701",
+            "valor": 2449700.0,
+            "documento": "2850",
+            "tipo_movimiento": "Abono En Cuenta Por Pago De Nomina",
+            "detalles": "PORTAL-EMPRESARIAL"
+        },
+        {
+            "fecha": "2701",
+            "valor": -16730.0,
+            "documento": "0564",
+            "tipo_movimiento": "Pago De Servicio",
+            "oficina": "BTA PROCESOS ESP."
+        },
+        {
+            "fecha": "3001",
+            "valor": -720000.0,
+            "documento": "4668",
+            "tipo_movimiento": "Retiro en Cajero Automatico",
+            "detalles": "AV JIMENEZ BOGOTA"
+        },
+        {
+            "fecha": "3101",
+            "valor": 198.92,
+            "documento": "0000",
+            "tipo_movimiento": "Rendimientos Financieros"
+        }
+    ]
+}

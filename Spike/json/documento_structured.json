@@ -1,0 +1,122 @@
+{
+    "cliente": "GABRIELA DURÁN VANEGAS",
+    "correo": "gabydv98@hotmail.com",
+    "mes_informe": "DICIEMBRE 2018",
+    "cuenta_ahorros": "4884 0008 9311",
+    "saldo_anterior": 191778.17,
+    "consignaciones": 857347.1,
+    "compras_retiros": 928641.71,
+    "nuevo_saldo": 120483.56,
+    "saldo_promedio_mes": 2100078.93,
+    "saldo_total_bolsillo": 0.0,
+    "movimientos": [
+        {
+            "fecha": "04/12",
+            "valor": 350000.0,
+            "descripcion": "Transferencia de fondos Portal Pymes 0351",
+            "tipo": "abono"
+        },
+        {
+            "fecha": "04/12",
+            "valor": 400000.0,
+            "descripcion": "Banco Bancolombia - 0803 Procesos ACH 4843",
+            "tipo": "abono"
+        },
+        {
+            "fecha": "04/12",
+            "valor": 1000000.0,
+            "descripcion": "Banco Bancolombia - 8758 Procesos ACH 7925",
+            "tipo": "abono"
+        },
+        {
+            "fecha": "04/12",
+            "valor": 350000.0,
+            "descripcion": "Transferencia de fondos Portal Pymes 3248",
+            "tipo": "retiro"
+        },
+        {
+            "fecha": "09/12",
+            "valor": 1020000.0,
+            "descripcion": "Cajero automático Centro diseño Portobel 8618",
+            "tipo": "retiro"
+        },
+        {
+            "fecha": "11/12",
+            "valor": 120000.0,
+            "descripcion": "Cajero automático Terpel Santa Teresa 6652",
+            "tipo": "retiro"
+        },
+        {
+            "fecha": "17/12",
+            "valor": 26190.0,
+            "descripcion": "Éxito Unicentro Bogotá Franquicia Visa 1374",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "18/12",
+            "valor": 19990.0,
+            "descripcion": "Falabella La Colina Franquicia Master Card 9250",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "18/12",
+            "valor": 139800.0,
+            "descripcion": "HM La Colina Franquicia Master Card 6715",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "18/12",
+            "valor": 22000.0,
+            "descripcion": "Ponto Brasileiro Bogotá Franquicia Visa 0441",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "20/12",
+            "valor": 20200.0,
+            "descripcion": "Éxito Unicentro Bogotá Franquicia Visa 0414",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "22/12",
+            "valor": 14150.0,
+            "descripcion": "Minimercado Cl 122 Franquicia Master Card 4589",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "26/12",
+            "valor": 48200.0,
+            "descripcion": "Fedco Unicentro Bogotá Franquicia Master Card 2523",
+            "tipo": "compra"
+        },
+        {
+            "fecha": "04/12",
+            "valor": 672.0,
+            "descripcion": "Transf. otra entidad Procesos ACH 4943",
+            "tipo": "otro_cobro"
+        },
+        {
+            "fecha": "04/12",
+            "valor": 672.0,
+            "descripcion": "Transf. otra entidad Procesos ACH 8025",
+            "tipo": "otro_cobro"
+        },
+        {
+            "fecha": "23/12",
+            "valor": 2000.0,
+            "descripcion": "Opción cuenta digital Procesos ESP. 4943",
+            "tipo": "otro_cobro"
+        },
+        {
+            "fecha": "31/12",
+            "valor": 78.93,
+            "descripcion": "Rendimientos financieros 0000",
+            "tipo": "abono"
+        },
+        {
+            "fecha": "31/12",
+            "valor": 636.93,
+            "descripcion": "IVA por servicios 0000",
+            "tipo": "otro_cobro"
+        }
+    ]
+}

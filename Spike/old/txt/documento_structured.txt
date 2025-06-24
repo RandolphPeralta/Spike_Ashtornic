@@ -1,0 +1,33 @@
+Extrayendo y estructurando los datos financieros:
+
+Cuenta de ahorros: 4884 0008 9311
+
+Resumen:
+- Saldo anterior: $191,778.17  
+- Consignaciones a la cuenta: $2,100,078.93
+- Compras y retiros: $1,434,510.00
+- Nuevo saldo: $857,347.10
+- Saldo promedio del mes: $928,641.71
+- Saldo total bolsillo: $0.00
+
+Movimientos:
+| Fecha   | Valor        | Movimiento                                   | Oficina/Franquicia    |
+|---------|--------------|----------------------------------------------|----------------------|
+| 04/12   | $350,000.00  | Transferencia de fondos                      | Portal Pymes 0351    |
+| 04/12   | $400,000.00  | Banco Bancolombia - Procesos ACH             | 0803                 |  
+| 04/12   | $1,000,000.00| Banco Bancolombia - Procesos ACH             | 8758                 |
+| 04/12   | $350,000.00  | Transferencia de fondos                      | Portal Pymes 3248    |
+| 09/12   | $1,020,000.00| Retiro Cajero automático                     | Centro diseño Portobel 8618 |
+| 11/12   | $120,000.00  | Retiro Cajero automático                     | Terpel Santa Teresa 6652 |
+| 17/12   | $26,190.00   | Compra Éxito Unicentro Bogotá                | Franquicia Visa 1374 |
+| 18/12   | $19,990.00   | Compra Falabella La Colina                   | Franquicia Master Card 9250 |
+| 18/12   | $139,800.00  | Compra HM La Colina                          | Franquicia Master Card 6715 |
+| 18/12   | $22,000.00   | Compra Ponto Brasileiro Bogotá               | Franquicia Visa 0441 |
+| 20/12   | $20,200.00   | Compra Éxito Unicentro Bogotá                | Franquicia Visa 0414 | 
+| 22/12   | $14,150.00   | Compra Minimercado Cl 122                    | Franquicia Master Card 4589 |
+| 26/12   | $48,200.00   | Compra Fedco Unicentro Bogotá                 | Franquicia Master Card 2523 |
+| 04/12   | $672.00      | Transf. otra entidad Procesos ACH            | 4943                 |
+| 04/12   | $672.00      | Transf. otra entidad Procesos ACH            | 8025                 |
+| 23/12   | $2,000.00    | Opción cuenta digital Procesos ESP.          | 4943                 |
+| 31/12   | $78.93       | Rendimientos financieros                     | 0000                 |
+| 31/12   | $636.93      | IVA por servicios                            | 0000                 |
